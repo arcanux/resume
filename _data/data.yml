@@ -24,7 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@wpsion13'
+    twitter: '@psion13'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,19 +36,13 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Gaming
           link:
 
         - item: Cooking
