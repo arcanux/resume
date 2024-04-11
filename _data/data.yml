@@ -57,18 +57,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Experienced in sales, design, implementation, support, and supervision in the areas of 
+        information technology and telecommunication customer service and support, 
+        data retrieval and conversion, desktop support, 
+        server administration, software training and networking systems.
+
+        Specialties - Developing teamwork and providing end user support in the telecommunications 
+        and information technology industries. Managing and deploying audio, video, 
+        telecommunication and data solutions.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Computer Science
+        university: N.R.I.
+        time: 1995 - 1997
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +79,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: SMATV Certification
+        university: Brown Institute
+        time: 1999 - 2001
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
