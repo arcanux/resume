@@ -94,9 +94,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Information Technology - End User Experience
+        time: 2017 - Present
+        company: Moraine Park Technical College
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,9 +109,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: IT Specialist (SysAdmin/Helpdesk) 
+        time: 2013 - 2017
+        company: eta Tech Service
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -120,9 +120,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: IT Support Technician
+        time: 2010 - 2013
+        company: Alexssa
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -135,13 +135,13 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Microsoft
           start: 2020
           end: 2021
           organization: Microsoft
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: www.microsoft.com
+          credentialname: Microsoft
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -156,13 +156,13 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Linux
+          start: 1994
           end:
-          organization: Microsoft
+          organization: GNU
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: www.linux.org
+          credentialname: Linux
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
