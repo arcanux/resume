@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -16,7 +16,7 @@ sidebar:
     email: aaonflora@yahoo.com
     phone: (262) 346-1146
     timezone: America/Chicago Timezone
-    citizenship:
+    citizenship: Unites States of America
     website: resume.aaronflora.com #do not add http://
     linkedin: aaronalanflora
     xing: psion13
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://aaronflora.com/resume/resume.pdf
 
     languages:
       title: Languages
