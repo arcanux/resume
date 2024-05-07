@@ -66,25 +66,24 @@ education:
         university: N.R.I.
         time: 1995 - 1997
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Gained a solid understanding of fundamental programming concepts like variables,
+          data types, control flow, and functions. Developed logical approaches to break down complex 
+          problems into manageable steps. Analyzed situations,
+          identifying the core issues, and devised effective solutions. Approached problems from 
+          different angles and used code to bring innovative ideas to life.
+            - Mastered the syntax and core principles of C++ and Visual Basic.
+            - Build proficiency in writing programs for different purposes using each language.
       - degree: SMATV Certification
         university: Brown Institute
         time: 1999 - 2001
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          Learned the theory of satellite television systems and its applications specifically for 
+          analog satellite master antenna television (SMATV) systems. fundamentals of radio frequency (RF) 
+          and direct current (DC) which are essential for understanding how signals are transmitted and 
+          received in satellite systems.
+            - Learned the specifics of satellite television systems,including components, signal processing, and transmission methods.
+            - Mastered how to use test equipment to measure and troubleshoot signal quality in satellite TV systems.
+            - Design, installation, and maintenance of analog SMATV systems, which distribute satellite TV signals to multiple dwelling units.
 experiences:
     title: Experiences
     info:
@@ -92,39 +91,34 @@ experiences:
         time: 2017 - Present
         company: Moraine Park Technical College
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Manage in-house computer software systems, servers, storage devices
+          and network connections to ensure high availability and security of the supported business applications. 
+          I also participates in the planning and implementation of policies and procedures to ensure system
+          provisioning and maintenance that is consistent with college goals, industry best practices, and regulatory
+          requirements.
+            - Maintain college-issued computers, including software updates, hardware replacements, and security configurations.
+            - Provide in-person and remote technical support, explaining solutions in a clear and understandable manner.
+            - Collaborate with faculty and staff to identify and implement new technologies to support educational initiatives.
       - role: IT Specialist (SysAdmin/Helpdesk) 
         time: 2013 - 2017
         company: eta Tech Service
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Installed, configured, troubleshoot, and maintain server configurations (hardware and software) to ensure their confidentiality, 
+          integrity, and availability. Managed accounts, firewalls, and patches. Responsible for access control, passwords, 
+          and account creation and administration.
+            - Managed Active Directory, Microsoft Office 365, and server and workstation patching with SCCM and Ninite Pro.
+            - Ensured the security of the server infrastructure by implementing industry best-practices regarding privacy, security, and regulatory compliance.
       - role: IT Support Technician
         time: 2010 - 2013
         company: Alexssa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked with all types of technology and every vendor imaginable; Sonicwall firewalls, vLANS, smart switches, routers, VPN technology, 
+          Wireless networks and network configurations. Strong Windows desktop experience, PowerShell scripting, O365 administration and migration. 
+          Windows Server administration including Active Directory, and Remote Desktop Services. Virtualization experience with one or more of Azure, AWS, 
+          Hyper-V or VMware. Experience implementing and troubleshooting Microsoft Office 365 and Azure. Advanced Backup solutions such as Veeam, Bacula, and urBackup.
+            - Install, configure, and support network equipment, including routers, switches and firewalls.
+            - Provided infrastructure support in all areas needed including storage networking, server/desktop OS, Cloud environments, network security, active directory, 
+            virtualization, system and network monitoring, and application installation, configuration and troubleshooting.
 
 certifications:
       title: Certifications
@@ -137,19 +131,9 @@ certifications:
           credentialurl: www.microsoft.com
           credentialname: Microsoft
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Knowledge to navigate “real-world” client business challenges. 
+            Used scenario based training to increase opportunities, utilized new found skill sets to determine solutions 
+            for clients as trusted advisor; layed the ground work for repeat license opportunities and long-term contracts. 
         - name: Linux
           start: 1994
           end:
@@ -158,14 +142,8 @@ certifications:
           credentialurl: www.linux.org
           credentialname: Linux
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Learned maintenance tasks, configuring a computer with Linux, basic networking, security, and shell scripting.
+            System logging, networking, security, process management, zero-downtime updates, and monitoring and troubleshooting.
 
 projects:
     title: Projects
@@ -181,59 +159,6 @@ projects:
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
