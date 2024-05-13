@@ -148,39 +148,37 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some of the projects I have successfully implemented and in some cases, still maintain.
     assignments:
-      - title: Velocity
+      - title: FOG
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A free open-source network computer cloning and management solution."
 
-      - title: DevStudio
+      - title: Zentyal
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Replaces MS Active Directory seamlessly."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Desktop Support
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: System Administration
         level: 98%
 
-      - name: Angular
+      - name: Network Administration
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Database Administration
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Web Development
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Application Development
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fa-solid fa-tree"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
